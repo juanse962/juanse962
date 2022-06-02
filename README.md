@@ -1,6 +1,5 @@
 # Hi. I'm Juan Sebastián Gómez
-- 🔭 I’m currently Developer
-
+- 🔭 I’m currently QA Automation Engineer
 
 
 ## ⚡ Technologies
